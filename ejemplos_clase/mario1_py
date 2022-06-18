@@ -1,0 +1,8 @@
+numero_1 = 5
+numero_2 = -1
+promedio = (numero_1+numero_2) / 2 # Calculo promedio loco
+if (numero_1>0 and numero_2>0):
+    print("Bravo! Todos positivos!")
+else:    
+    print("Hay al menos un negativo!!")
+print("Promedio: ",promedio)
