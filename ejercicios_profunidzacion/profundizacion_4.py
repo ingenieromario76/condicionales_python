@@ -33,3 +33,8 @@ contenido.
 
 print('Ejercicios de práctica con cadenas')
 # Empezar aquí la resolución del ejercicio
+texto_1 = input("Ingrese la 1° Palabra:")
+texto_2 = input("Ingrese la 2° Palabra:")
+texto_3 = input("Ingrese la 3° Palabra:")
+respuesta = input("Que desea hacer? 1- Ordenar por orden alfabético o 2- Ordenar por cantidad de letras")
+
